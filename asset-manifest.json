@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Atlan-Task/static/css/main.1702b366.css",
+    "main.js": "/Atlan-Task/static/js/main.64d024c4.js",
+    "static/js/787.32c724d0.chunk.js": "/Atlan-Task/static/js/787.32c724d0.chunk.js",
+    "index.html": "/Atlan-Task/index.html",
+    "main.1702b366.css.map": "/Atlan-Task/static/css/main.1702b366.css.map",
+    "main.64d024c4.js.map": "/Atlan-Task/static/js/main.64d024c4.js.map",
+    "787.32c724d0.chunk.js.map": "/Atlan-Task/static/js/787.32c724d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1702b366.css",
+    "static/js/main.64d024c4.js"
+  ]
+}
