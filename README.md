@@ -3,8 +3,6 @@
 # Project Overview:
 The project is a simple web-based application built using React. It allows users to input SQL queries, view the results of dummy queries, and toggle between different predefined queries. The application doesn't have a real backend or actual data; instead, it uses mock data and dummy queries for demonstration purposes.
 
-This project is a web-based SQL query application built using React. 
-
 ◉ When the application loads, users are presented with the heading "SQL Query Application," a textarea to input SQL queries, and buttons to select predefined queries.
 
 ◉ Users can type or paste their SQL queries into the textarea provided by the QueryInput component.
