@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Atlan-Task/static/css/main.1702b366.css",
-    "main.js": "/Atlan-Task/static/js/main.64d024c4.js",
-    "static/js/787.32c724d0.chunk.js": "/Atlan-Task/static/js/787.32c724d0.chunk.js",
-    "index.html": "/Atlan-Task/index.html",
-    "main.1702b366.css.map": "/Atlan-Task/static/css/main.1702b366.css.map",
-    "main.64d024c4.js.map": "/Atlan-Task/static/js/main.64d024c4.js.map",
-    "787.32c724d0.chunk.js.map": "/Atlan-Task/static/js/787.32c724d0.chunk.js.map"
+    "main.css": "/FrontEnd-Task/static/css/main.367278d6.css",
+    "main.js": "/FrontEnd-Task/static/js/main.747fa87a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FrontEnd-Task/static/js/787.28cb0dcd.chunk.js",
+    "static/media/PPAgrandir-GrandHeavy.otf": "/FrontEnd-Task/static/media/PPAgrandir-GrandHeavy.ebf5f4b209d749d47a49.otf",
+    "index.html": "/FrontEnd-Task/index.html",
+    "main.367278d6.css.map": "/FrontEnd-Task/static/css/main.367278d6.css.map",
+    "main.747fa87a.js.map": "/FrontEnd-Task/static/js/main.747fa87a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FrontEnd-Task/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1702b366.css",
-    "static/js/main.64d024c4.js"
+    "static/css/main.367278d6.css",
+    "static/js/main.747fa87a.js"
   ]
 }
